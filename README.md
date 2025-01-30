@@ -13,7 +13,8 @@ This project focuses on improving depth map generation for outdoor scenes, parti
 ## 📊 Results
 
 ### Daytime vs Nighttime Depth Maps
-![Depth Map Comparison](![ft_day_busy_comparison](https://github.com/user-attachments/assets/7da0b5a0-044f-4d0b-b6ae-5a22cb8ed20e))
+![Depth Map Comparison](![ft_day_busy_comparison])
+![Depth Map Comparison](![ft_day_empty_comparison])
 *Comparison of depth maps for various scenes: (a) busy daytime (b) empty daytime (c) busy nighttime (d) empty nighttime (e) noisy nighttime*
 
 ### Domain Adaptation Results
