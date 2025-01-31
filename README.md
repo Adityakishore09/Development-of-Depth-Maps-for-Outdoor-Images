@@ -34,7 +34,7 @@ This project focuses on improving depth map generation for outdoor scenes, parti
 
 
 ### Domain Adaptation Results
-![Domain Adaptation Results](assets/domain_adaptation.png)
+![Domain Adaptation Results](train_day_busy_comparison.png)
 *Results on a busy night-time scene showing actual scene, depth map from DepthAnything v1, difference in depth maps, and depth map from our encoder*
 
 ### Image Enhancement Results
