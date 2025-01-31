@@ -97,8 +97,8 @@ Best results were obtained using:
 
 ## 👥 Authors: Feel free to reach out
 
-- Devashish Tripathi (devashish21@iiserb.ac.in)
-- Aditya Kishore (adityak21@iiserb.ac.in) 
+- Devashish Tripathi (devashish21@iiserb.ac.in) Github: (https://github.com/Devashish-Tripathi)
+- Aditya Kishore (adityak21@iiserb.ac.in) Github: (https://github.com/Adityakishore09)
 - Snehal Mahajan (mahajan20@iiserb.ac.in)
 
 ## Dataset: Kindly Email us for the access to Dataset
