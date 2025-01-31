@@ -12,7 +12,7 @@ This project focuses on improving depth map generation for outdoor scenes, parti
 
 ## 📊 Results
 
-### Daytime vs Nighttime Depth Maps
+## Daytime vs Nighttime Depth Maps
 ![Depth Map Comparison](day_busy.png)
 *Comparison of depth maps for various scenes: (a) busy daytime
 
@@ -33,11 +33,15 @@ This project focuses on improving depth map generation for outdoor scenes, parti
 *Comparison of depth maps for various scenes: (e) noisy nighttime*
 
 
-### Domain Adaptation Results
+## Domain Adaptation Results
 ![Domain Adaptation Results](train_day_busy_comparison.png)
+![Domain Adaptation Results](train_day_empty_comparison.png)
+![Domain Adaptation Results](train_night_busy_comparison.png)
+![Domain Adaptation Results](train_night_empty_comparison.png)
+![Domain Adaptation Results](train_night_verylowres_comparison.png)
 *Results on a busy night-time scene showing actual scene, depth map from DepthAnything v1, difference in depth maps, and depth map from our encoder*
 
-### Image Enhancement Results
+## Image Enhancement Results
 ![Enhancement Results](assets/enhancement_results.png)
 *Results showing enhanced nighttime images along with their corresponding depth maps using various algorithms*
 
