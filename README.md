@@ -95,11 +95,13 @@ Best results were obtained using:
 4. Yang, L., et al. (2024). Depth Anything V2.
 5. Yang, L., et al. (2024). Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data.
 
-## 👥 Authors
+## 👥 Authors: Feel free to reach out
 
 - Devashish Tripathi (devashish21@iiserb.ac.in)
-- Aditya Kishore (adityak21@iiserb.ac.in)
+- Aditya Kishore (adityak21@iiserb.ac.in) 
 - Snehal Mahajan (mahajan20@iiserb.ac.in)
+
+## Dataset: Kindly Email us for the access to Dataset
 
 ## 📄 License
 
