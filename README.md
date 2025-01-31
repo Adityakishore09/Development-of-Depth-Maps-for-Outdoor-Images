@@ -42,7 +42,9 @@ This project focuses on improving depth map generation for outdoor scenes, parti
 *Results on a busy night-time scene showing actual scene, depth map from DepthAnything v1, difference in depth maps, and depth map from our encoder*
 
 ## Image Enhancement Results
-![Enhancement Results](assets/enhancement_results.png)
+![Enhancement Results](Lowres_1.png)
+![Enhancement Results](Lowres_2.png)
+![Enhancement Results](Lowres.png)
 *Results showing enhanced nighttime images along with their corresponding depth maps using various algorithms*
 
 ## 🛠️ Approaches
